@@ -1,0 +1,1 @@
+done till 4:13 of https://scrimba.com/learn/vuetify/store-navigation-cMZMQbu9 video number 12
